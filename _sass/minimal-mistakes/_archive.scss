@@ -89,6 +89,30 @@
   .page__meta {
     margin: 0 0 4px;
   }
+
+
+  &--left {
+    float: left;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    clear: both;
+    
+    @include breakpoint($small) {
+      .archive__item-teaser {
+        float: left;
+        width: span(5 of 12);
+        max-height: 200px;
+		width: 300px;
+      }
+      .archive__item-body {
+        float: right;
+        padding-left: gutter(0.5 of 12);
+        padding-right: gutter(1 of 12);
+        width: span(7 of 12);
+      }
+    }
+  }
 }
 
 /*
