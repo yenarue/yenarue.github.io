@@ -1,16 +1,18 @@
 ---
 title: "Hello, Github Blog!"
 date: 2018-04-29 20:00:00
-header:
-  overlay_color: "#333"
-  show_overlay_excerpt: false
-category: smalltalk
+layout: post
+category: SmallTalk
+tags:
+  - 잡담
 comments: true
 ---
 
 # 드디어 깃허브 블로그를 만들었다! :-D
 
 계속해서 미루고 미루다 이러다 평생 안만들겠다 싶어서 후다닥 만들어두었다.
+
+<!-- more -->
 
 ## Simple is the Best
 테마는 깔끔한 느낌의 [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)로 결정했다!

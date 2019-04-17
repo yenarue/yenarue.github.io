@@ -19,14 +19,27 @@ $ jekyll serve --livereload --draft
 
 2. `localhost:4000` 으로 접속하여 확인한다.
 
-## 설정
-### Navigation
-`_data/navigation.yml` 수정
+------
+# Codinfox-Lanyon
 
-```yaml
-main:
-  - title: "About"
-    url: /about/
-```
+This is a jekyll template based on [Lanyon](https://github.com/poole/lanyon). See a live demo [here](http://codinfox.github.io).
 
-* url은 `_pages` 디렉토리 안의 `html` 파일내 `permalink` 필드를 참조한다.
+**If you like this project, PLEASE give it a star.**
+
+Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+
+All the configurations are inside either `_config.yml` or `_config.scss`. The options are fairly straightforward. 
+
+The theme supports: 
+
+1. Theme colors: you can choose your favorite theme color
+2. Changable sidebar locations
+3. Integration of FontAwesome, MathJax, Disqus and Google Analytics
+4. and numerous improvements over original Lanyon
+
+
+## License
+
+Open sourced under the [MIT license](LICENSE.md).
+
+<3
