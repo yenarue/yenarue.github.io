@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Hello, Github Blog!"
+title: "Hello, Github Blog!"
 date: 2018-04-29 20:00:00
 header:
   overlay_color: "#333"
@@ -14,8 +14,10 @@ comments: true
 
 ## Simple is the Best
 테마는 깔끔한 느낌의 [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)로 결정했다!
+
 설정하는 방법도 꽤 쉽고 [가이드](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide)도 잘 되어있어서 슬쩍 들여다보면서 고치는 재미가 있는 듯 하다.
-리스트에서 개별 포스팅에 대한 썸네일 이미지가 뜨지 않는 것은 아쉽지만 sass 쪽을 좀 고치면 가능하긴 하더라... 그런데 막상 띄워보니 안예뻐서 순정으로 원복!
+
+리스트에서 개별 포스팅에 대한 썸네일 이미지가 뜨지 않는 것은 아쉽지만 sass 쪽을 좀 고치면 가능하긴 하더라... 그런데 막상 썸네일 이미지를 띄워보니 생각보다 안예뻐서 순정으로 원복!
 
 ## 이사를 하게된 이유
 일단 기존 네이버 블로그는 기술 블로깅을 하기에 나에게는 적합하지 않았다. 그 이유를 몇가지 정리해보자면 다음과 같다.
