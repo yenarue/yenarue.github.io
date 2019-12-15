@@ -9,7 +9,7 @@ body {
 }
 
 html {
-  font-family: $font-serif;
+  font-family: $font-gothic;
   text-rendering: optimizeLegibility;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
@@ -19,7 +19,7 @@ html {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $font-sans;
+  font-family: $font-gothic;
   font-weight: 400;
   color: $title-color;
   letter-spacing: -.025rem;
