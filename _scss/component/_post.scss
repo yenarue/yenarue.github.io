@@ -11,11 +11,25 @@
     h1 { font-size: 1.6rem; }
     h2 { 
       margin: 2em 0 1em 0;
-      font-size: 1.0rem; 
+      font-size: 1.4rem;
+	  text-decoration: underline;
     }
-    h3, h4, h5, h6 {
+	h3 {
+	  margin: 2em 0 1em 0;
+	  font-size: 1.2rem;
+	}
+    h4 {
+	  margin: 2em 0 1em 0;
+	  font-size: 1.0rem;
+	}
+	h5 {
+	  margin: 2em 0 1em 0;
+	  font-size: 0.8rem;
+	}
+	h6 {
       margin: 2em 0 1em 0;
       font-size: 0.8rem;
+	  color: grey;
     }
   }
 
