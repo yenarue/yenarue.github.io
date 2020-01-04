@@ -3,15 +3,28 @@
 Jeklly 블로그 프레임워크를 사용한 개인 블로그.
 
 ## 로컬 테스트
-### 최초 실행
+### 최초 실행 [#](https://nachwon.github.io/jekyllblog/)
+
 ```bash
-$ bundle
+$ gem install bundler
+$ gem install github-pages
+$ gem install jekyll
+```
+
+Gemfile 생성 및 적용
+
+```bash
+$ vi Gemfile
+gem "github-pages", group: :jekyll_plugins
+$ bundle install
+$ bundle update
 ```
 
 ### 테스트
+
 1. 아래의 커멘드를 실행한다.
 ```bash
-$ jekyll serve --livereload --draft
+$ bundle exec jekyll serve --livereload --draft
 ```
 
 * `--draft` : 초안을 함께 표시. (`_draft` 디렉토리 하위의 문서들 표시)
