@@ -1,9 +1,32 @@
 .page {
   margin-bottom: 4em;
+  font-size: 0.9rem;
+
   .page-title {
     color: $theme-color;
     margin-top: 0;
     text-transform: uppercase;
+  }
+  .message {
+    font-size: 1rem;
+  }
+
+  h2 { 
+    margin: 2em 0 1em 0;
+	font-size: 1.4rem;
+    text-decoration: underline;
+  }   
+  h3 {
+    margin: 2em 0 1em 0; 
+	font-size: 1.2rem;
+	font-weight: 700;
+  }
+
+  blockquote {
+	font-size: 0.8rem;
+	padding-top: 0.2rem;
+	padding-bottom: 0.2rem;
+	padding-right: 1.2rem;
   }
 }
 

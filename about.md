@@ -4,27 +4,38 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  👩🏻‍💻 <strong>제너럴 리스트</strong>를 꿈꾸는 SW개발자, <strong>김예나 (Yenarue, Yena Kim)</strong> 입니다!
+  <br/>
+  새로운 것을 익히는 것을 좋아합니다. 결과보다는 원인을 주로 궁금해합니다.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+아직 부족한 점이 많지만 '천천히 흘러도 흘러가야 한다'는 말에 공감하며 꾸준히 학습하고 있습니다. 
 
-There are currently two themes built on Poole:
+입사 이전에는 다양한 분야에 손을 대며 잡캐로서의 삶을 충실하게 살아왔으나, 입사 이후에는 주로 Java, Android의 세계에서 살고있었습니다. ~~그렇게 입사 이전의 기억이 소멸되었습니다.~~
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+그러다 창업 이후에는 다시 다양한 분야에 ~~반강제적으로~~ 손을 대기 시작하며 잡캐로서의 역량을 펼쳐나가는 중입니다.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+부끄럽게도 정말 부족한 실력임에도 불구하고 현재 공동창업한 기업에서 개발 리딩을 맡고 있습니다. 주니어 개발자로서 시작한 개발리딩이 여전히 벅찰 때도 많지만 이 또한 성장의 기회라 생각하며 열정적으로 부딪히며 배워나가고 있습니다! 
 
-## Setup
 
-Some fun facts about the setup of this project include:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+---
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+### 블로그에 대하여
 
-Thanks for reading!
+이 곳은 제가 개발 관련하여 **학습한 내용을 정리**하거나 **개인적인 생각들**을 적는 개인 블로그 입니다.
+
+혹시 제 포스팅에 <u>잘못된 내용</u>이 보이시거나 <u>덧붙이면 더 좋을 만한 정보</u>가 있으시다면 둥글게 피드백 부탁드리겠습니다! 겸허히 받아들이겠습니다! 🙏
+
+> 뾰족한 피드백은 마음이 너무 힘들어서 역효과가 나요! 둥글게 말씀해주셔도 정말 잘 알아 듣습니다!
+
+
+
+---
+
+
+
+### [About Too Much Informations](/about_tmi)
+
+저의 관심사, 이력, 활동, 스터디 그룹 내역 등이 궁금하시다면 [링크를 클릭하고 TMI 문서](/about_tmi)로 이동해보세요! [링크드인](https://www.linkedin.com/in/yena-kim-yenarue/)을 구경해보셔도 괜찮아요!
+
