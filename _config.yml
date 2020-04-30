@@ -59,3 +59,5 @@ mathjax: true # whether support mathjax
 google_analytics_token: 'UA-118279749-1' # leave blank if you don't want google analytics
 disqus_short_name: 'yenarue-dev-blog' # leave blank if you don't want disqus
 
+plugins:
+    - jekyll-sitemap
