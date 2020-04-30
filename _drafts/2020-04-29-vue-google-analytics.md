@@ -10,6 +10,8 @@ tags:
 comments: true
 ---
 
+> 🚨 이미지 링크 깃헙 링크로 변경하기ㅋㅋ
+
 Vue.js는 SPA 구조로 되어있다보니 build 후 산출되는 Single Page를 고려하여 Google Analytics 트래킹 코드를 제작하고 넣기가 번거롭다.
 
 ![](/Users/yenarue/OneDrive/Developer/TIL/Vue.js/images/vue-analytics-1.png)

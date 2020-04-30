@@ -1,6 +1,6 @@
 ---
 title: "Github 블로그 검색엔진에 등록하기 (구글/네이버/다음)"
-date: 2019-04-17 
+date: 2020-04-30 
 layout: post
 category: Tip
 tags:
