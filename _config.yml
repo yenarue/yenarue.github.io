@@ -39,6 +39,7 @@ author:
 nav:
   Home:           
     - '/'
+    - { Posts: '/blog/archive/' }
     - { Categories: '/blog/categories/' }
     - { Tags: '/blog/tags/' }
   About:          
