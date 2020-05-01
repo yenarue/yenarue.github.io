@@ -6,6 +6,8 @@ category: Book
 tags:
   - Book
   - Review
+  - Web
+  - Frontend
 comments: true
 ---
 

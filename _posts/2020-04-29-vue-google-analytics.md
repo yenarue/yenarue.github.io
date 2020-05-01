@@ -4,6 +4,7 @@ date: 2020-04-29
 layout: post
 category: Web
 tags:
+  - Web
   - Frontend
   - Vue.js
   - Analytics
