@@ -4,7 +4,8 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
+  <!-- <span class="post-date">{{ page.date | date_to_string }}</span> -->
+  <span class="post-date">{{ post.date | date: "%Y년 %m월 %d일" }}</span>
   {% if page.tags %} | 
   {% for tag in page.tags %}
     <a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">{{ tag }}</a>
@@ -23,7 +24,8 @@ layout: default
         <h4>
           <a href="{{ site.baseurl }}{{ post.url }}">
             {{ post.title }}
-            <small>{{ post.date | date_to_string }}</small>
+			<!-- <small>{{ post.date | date_to_string }}</small> -->
+			<small>{{ post.date | date: "%Y년 %m월 %d일" }}</small>
           </a>
         </h4>
       </li>
