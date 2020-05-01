@@ -10,13 +10,11 @@ tags:
 comments: true
 ---
 
-> 🚨 이미지 링크 깃헙 링크로 변경하기ㅋㅋ
-
 Vue.js는 SPA 구조로 되어있다보니 build 후 산출되는 Single Page를 고려하여 Google Analytics 트래킹 코드를 제작하고 넣기가 번거롭다.
 
-![](/Users/yenarue/OneDrive/Developer/TIL/Vue.js/images/vue-analytics-1.png)
+![](https://github.com/yenarue/TIL/raw/master/Vue.js/images/vue-analytics-1.png)
 
-추가적인 이벤트가 발생할 일이 없는 단일 컴포넌트만 존재하는 경우이거나 웹 페이지 진입 여부만 체크하는 경우라면, `public/index.html` 에 Google Analytics에서 제공하는 임베디드 코드를 바로 넣어도 큰 상관은 없겠지만..... 여러 컴포넌트와 페이지, 그리고 이벤트들이 존재하는 경우에는 거의 불가능에 가깝다고 볼 수 있겠다. 그리고 대부분의 프로젝트가 후자의 케이스에 속할 것이다.
+추가적인 이벤트가 발생할 일이 없는 단일 컴포넌트만 존재하는 경우이거나 웹 페이지 진입 여부만 체크하는 경우라면, `public/index.html` 에 Google Analytics에서 제공하는 임베디드 코드를 바로 넣어도 큰 상관은 없겠지만... 여러 컴포넌트와 페이지, 그리고 이벤트들이 존재하는 경우에는 거의 불가능에 가깝다고 볼 수 있겠다. 그리고 대부분의 프로젝트가 후자의 케이스에 속할 것이다.
 
 <!-- more -->
 
@@ -76,7 +74,7 @@ Vue.use(VueAnalytics, {
 
 당황하지 않고 공식문서를 다시 살펴보았다.
 
-![vue-analytics-warn](/Users/yenarue/OneDrive/Developer/TIL/Vue.js/images/vue-analytics-warn.png)
+![vue-analytics-warn](https://github.com/yenarue/TIL/raw/master/Vue.js/images/vue-analytics-warn.png)
 
 이제서야 눈에 들어오는 경고메세지! 😳
 
@@ -134,11 +132,11 @@ Vue.use(VueGtag, {
 
 이름에서도 알 수 있듯이, 구글에서 직접 제작하고 제공하는 것이라 안정적이고 왠지 신뢰가 간다. ~~(물론 구글이기에 소리소문없이 없어질 가능성도 크지만....)~~
 
-![google-tag-assistant-store](/Users/yenarue/OneDrive/Developer/TIL/Vue.js/images/google-tag-assistant-store.png)
+![google-tag-assistant-store](https://github.com/yenarue/TIL/raw/master/Vue.js/images/google-tag-assistant-store.png)
 
 [크롬 웹 스토어에서 다운로드](https://chrome.google.com/webstore/detail/tag-assistant-by-google)하여 설치하면 주소창 우측 상단에 태그 어시스트가 생겨난다.  
 
-![google-tag-assistant-usage](/Users/yenarue/OneDrive/Developer/TIL/Vue.js/images/google-tag-assistant-usage.png)
+![google-tag-assistant-usage](https://github.com/yenarue/TIL/raw/master/Vue.js/images/google-tag-assistant-usage.png)
 
 gtag가 적용된 웹페이지에 접속한 뒤 태그 어시스턴트를 클릭해보면 이렇게 어떤 태그가 어떻게 적용되어있는지 표시된다. 아주 편리한 기능이 아닐 수 없다ㅎㅎ
 
