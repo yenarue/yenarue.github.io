@@ -1,6 +1,6 @@
 ---
 title: "[와우해커/wowhacker] Level 1 문제풀이"
-date: 2012-05-15 
+date: 2012-05-15 06:38
 layout: post
 category: WarGame
 tags:
