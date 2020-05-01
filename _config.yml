@@ -2,7 +2,7 @@
 title: Yenarue's DevLog
 tagline: 'Beautiful Programming :-)'
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
-baseurl: ""
+baseurl: ''
 url: https://yenarue.github.io
 logo: ''
 
@@ -12,10 +12,10 @@ gems:
 markdown: kramdown
 kramdown:
   input: GFM
-excerpt_separator: "<!-- more -->"
+excerpt_separator: '<!-- more -->'
 sass:
   style: compressed
-  sass_dir: _scss    
+  sass_dir: _scss
 paginate: 5
 #paginate_path: '/blog/page:num'
 permalink: pretty
@@ -26,25 +26,25 @@ version: 1.1.0
 author:
   name: Yenarue
   description: <strong>제너럴리스트</strong>를 꿈꾸는 SW개발자👩🏻‍💻, 김예나(Yenarue) 입니다.
-  gravatar: c77a29c5315142c8dc84adb4c92e9a18  # md5 hash of your email address
+  gravatar: c77a29c5315142c8dc84adb4c92e9a18 # md5 hash of your email address
   contact:
-    linkedin:  https://www.linkedin.com/in/yena-kim-yenarue/
-    github:    https://github.com/yenarue
-    facebook:  https://www.facebook.com/yenarue
+    linkedin: https://www.linkedin.com/in/yena-kim-yenarue/
+    github: https://github.com/yenarue
+    facebook: https://www.facebook.com/yenarue
     # twitter:   https://twitter.com/Li_Zhihao
     # weibo:     http://weibo.com/41173780
-    email:     yenarue@gmail.com
+    email: yenarue@gmail.com
 
 # Navigation (2nd level links supported)
 nav:
-  Home:           
+  Home:
     - '/'
     - { Yearly: '/blog/archive/' }
     - { Categories: '/blog/categories/' }
     - { Tags: '/blog/tags/' }
-  About:          
+  About:
     - '/about/'
-  Github Project: 
+  Github Project:
     - 'https://github.com/yenarue/yenarue.github.io'
 
 # Where are tags and categories displayed
@@ -61,4 +61,4 @@ google_analytics_token: 'UA-118279749-1' # leave blank if you don't want google 
 disqus_short_name: 'yenarue-dev-blog' # leave blank if you don't want disqus
 
 plugins:
-    - jekyll-sitemap
+  - jekyll-sitemap
