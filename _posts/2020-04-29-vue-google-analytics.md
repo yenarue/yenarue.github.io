@@ -14,15 +14,23 @@ Vue.js는 SPA 구조로 되어있다보니 build 후 산출되는 Single Page를
 
 ![](https://github.com/yenarue/TIL/raw/master/Vue.js/images/vue-analytics-1.png)
 
-추가적인 이벤트가 발생할 일이 없는 단일 컴포넌트만 존재하는 경우이거나 웹 페이지 진입 여부만 체크하는 경우라면, `public/index.html` 에 Google Analytics에서 제공하는 임베디드 코드를 바로 넣어도 큰 상관은 없겠지만... 여러 컴포넌트와 페이지, 그리고 이벤트들이 존재하는 경우에는 거의 불가능에 가깝다고 볼 수 있겠다. 그리고 대부분의 프로젝트가 후자의 케이스에 속할 것이다.
+버튼 클릭 등의 이벤트가 발생할 일이 없는 단일 페이지인 경우이거나 웹 페이지 진입 여부만 체크하면 되는 경우라면, `public/index.html` 에 Google Analytics에서 제공하는 임베디드 코드를 바로 넣어도 큰 상관은 없겠지만... **여러 컴포넌트와 페이지, 그리고 이벤트들이 존재하는 경우에는 임베디드 코드를 붙여넣는 것만으로는 부족하다**. 
 
 <!-- more -->
 
-그럼 어쩌라는 말이냐ㅠㅠ!
+대부분의 프로젝트가 바로 이 경우에 해당한다. 그럼 우리는 어쩌라는 말이냐ㅠㅠ!
 
-ㅎㅎ하지만 정말 다행히도 **Vue.js를 위한 Google Analytics 패키지**가 몇가지 존재한다 😇
+ㅎㅎ정말 다행히도 **Vue.js를 위한 Google Analytics 패키지**가 몇가지 존재한다 😇
 
 오늘은 그 중에서도 `vue-analytics` 와 `vue-gtag` 대해 소개해보려 한다.
+
+----
+
+**👀 목차**
+
+* TOC
+{:toc}
+----
 
 ## vue-analytics
 
@@ -86,7 +94,7 @@ Vue.use(VueAnalytics, {
 
 이제 `vue-gtag` 에 대해서 알아보도록 하자!
 
-## `vue-gtag`
+## vue-gtag
 
 공식 GitHub 페이지에는 "Vue.js를 위한 글로벌 사이트 태그 플러그인"이라고 소개되어있다.
 
