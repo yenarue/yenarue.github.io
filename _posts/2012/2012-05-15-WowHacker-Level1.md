@@ -40,7 +40,7 @@ http://webgame.wowhacker.com/](http://webgame.wowhacker.com/)**
 
 ### Level 1 문제
 
-![](https://postfiles.pstatic.net/20120515_278/syung1104_1337030870658gr6qM_JPEG/WHlevel1.JPG?type=w2)
+![](https://github.com/yenarue/images/blob/master/wowhacker/level1/WHlevel1.jpeg?raw=true)
 
 
 
@@ -56,7 +56,7 @@ php코드를 봐야한단다. 첫 문제니 쉽겠지?.?
 
 
 
-![img](https://postfiles.pstatic.net/20120515_275/syung1104_1337031081539NXaum_JPEG/WHlevel1-00.JPG?type=w2)
+![img](https://github.com/yenarue/images/blob/master/wowhacker/level1/WHlevel1-00.jpeg?raw=true)
 
 
 
@@ -110,7 +110,7 @@ HTML는 서버에서 소스를 가져와 클라이언트단에서 처리하는 �
 
 
 
-﻿![img](https://postfiles.pstatic.net/20120515_168/syung1104_1337031589237eX0Kd_JPEG/WHlevel1-01.JPG?type=w2)
+﻿![img](https://github.com/yenarue/images/blob/master/wowhacker/level1/WHlevel1-01.jpeg?raw=true)
 
 위와 같이 확장자명을 .phps로 바꿔주면 웹에서도 php소스코드를 볼 수있다.
 
@@ -132,15 +132,13 @@ HTML는 서버에서 소스를 가져와 클라이언트단에서 처리하는 �
 
 Get메소드식으로 값을 가져오는 것이므로 URL을 이용하여 파라미터값을 넘기게 될 것이다.
 
-`http://webgame.wowhacker.com/level1.phps?key=wowhacker_hardware`
-
-를 주소창에 써보자
+`http://webgame.wowhacker.com/level1.phps?key=wowhacker_hardware` 를 주소창에 써보자
 
 
 
 
 
-![img](https://postfiles.pstatic.net/20120515_5/syung1104_1337031959608vKVPm_JPEG/WHlevel1-02.JPG?type=w2)
+![img](https://github.com/yenarue/images/blob/master/wowhacker/level1/WHlevel1-02.jpeg?raw=true)
 
 
 
