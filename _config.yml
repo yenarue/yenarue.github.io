@@ -1,7 +1,7 @@
 # Site Info
 title: Yenarue's DevLog
 tagline: 'Beautiful Programming :-)'
-description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
+description: '제너럴리스트를 꿈꾸는 SW개발자의 블로그🙌🏻'
 baseurl: ''
 url: https://yenarue.github.io
 logo: ''
@@ -62,3 +62,4 @@ disqus_short_name: 'yenarue-dev-blog' # leave blank if you don't want disqus
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
