@@ -63,3 +63,4 @@ disqus_short_name: 'yenarue-dev-blog' # leave blank if you don't want disqus
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-feed
