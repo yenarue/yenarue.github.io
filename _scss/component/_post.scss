@@ -6,13 +6,16 @@
   }
 
   @media (min-width: 38rem) {
-    font-size: .8rem;
+    font-size: 0.9rem;
 
-    h1 { font-size: 1.6rem; }
+    h1 { 
+		margin: 2em 0 1em 0;
+		font-size: 1.6rem; 
+	}
     h2 { 
       margin: 2em 0 1em 0;
       font-size: 1.4rem;
-	  text-decoration: underline;
+	  text-decoration: underline;;
     }
 	h3 {
 	  margin: 2em 0 1em 0;
@@ -55,6 +58,10 @@
 
   article {
     line-height: 1.4rem;
+  }
+
+  li {
+	  margin-bottom: .5em;
   }
 }
 
