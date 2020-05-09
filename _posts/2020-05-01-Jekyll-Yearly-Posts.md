@@ -33,7 +33,7 @@ Jekyll 블로그의 경우, `blog` 디렉토리에 메뉴의 내용(content)을 
 
 코드는 다음과 같다 : 
 
-<script src="http://gist-it.appspot.com/https://github.com/yenarue/yenarue.github.io/blob/master/blog/archive.html"></script>
+<script charset="UTF-8" src="http://gist-it.appspot.com/https://github.com/yenarue/yenarue.github.io/blob/master/blog/archive.html"></script>
 
 사이트의 모든 포스팅을 가져온 뒤, 년도로 모아 보여주는 코드다. `site.posts` 는 어차피 포스팅들이 날짜 순으로 들어있기 때문에 그냥 다음 포스팅과 비교하는 코드로 작성했다.
 
@@ -47,7 +47,7 @@ Jekyll은 빌드 후에 `blog` 디렉토리에 있던 메뉴들을 각각 디렉
 
 `_config.yml` 파일에 `/blog/archive/`  를 아래와 같이 추가했다 :
 
-<script src="http://gist-it.appspot.com/https://github.com/yenarue/yenarue.github.io/blob/master/_config.yml?slice=38:48"></script>
+<script charset="UTF-8" src="http://gist-it.appspot.com/https://github.com/yenarue/yenarue.github.io/blob/master/_config.yml?slice=38:48"></script>
 
 메뉴 이름은 직관적으로 "Yearly" 라고 지었다!
 
