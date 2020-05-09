@@ -223,6 +223,7 @@ https://github.com/yenarue/yenarue.github.io/blob/master/feed.xml
 * [[Jekyll Plugin] jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag)
 * [블로그에 SEO 적용하기](https://tech.songyunseop.com/post/2016/09/seo-for-blog/)
 * [Add metadata tags to Jekyll blog posts](http://jovandeginste.github.io/2016/05/18/add-metadata-tags-to-jekyll-blog-posts.html)
+* [OpenGraph를 통한 썸네일 지정](https://lanace.github.io/articles/what-is-open-graph/)
 
 전반적으로 Jekyll 블로그의 포맷을 따라야 하는 부분들이 있어, 관련 내용 및 적용기는 별도 포스팅으로 작성할 듯 싶다.
 
