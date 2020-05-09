@@ -79,3 +79,6 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 *.lnk
+
+### Temporary Files ###
+*.swp
