@@ -1,5 +1,5 @@
 ---
-title: "Vue.js에 Google Analytics 붙이기"
+title: "Vue.js에 Google Analytics 붙이기 (vue-gtag)"
 date: 2020-04-29 
 layout: post
 category: Web
