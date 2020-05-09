@@ -27,10 +27,10 @@
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:type" content="article">
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"/>
-  {% if page.image.feature %}
-	<meta name="og:image" content="{{ site.url }}/images/{{ page.image.feature }}">
+  {% if page.image %}
+	<meta name="og:image" content="{{ page.image }}">
   {% else %}
-	<meta name="og:image" content="{% if page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/public/img/yenarue.png{% endif %}">
+	<meta name="og:image" content="{{ site.url }}/public/img/yenarue.png">
   {% endif %}
   <meta property="og:image:width" content="420" />
   <meta property="og:image:height" content="420" />

@@ -1,12 +1,13 @@
 ---
-title: "이것은 템플릿이다"
-date: 2019-04-17 
 layout: post
+title: "이것은 템플릿이다"
+date: 2019-04-17
 category: Note
 tags:
   - tag1
   - tag2
 comments: true
+image: 
 ---
 
 <p class="message">
