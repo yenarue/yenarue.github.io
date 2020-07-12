@@ -85,11 +85,15 @@ comments: true
 
 ### 발전단계
 
+순환형태로 반복된다.
+
 암묵지 -> **형식화** -> 형식지 -> **체계화** -> 방법론 -> **내재화** -> 암묵지
 
 
 
 ## DIKW 피라미드
+
+단순한 데이터가 인사이트를 가지는 지혜로까지 발전하는 각 단계를 표현한 피라미드이다.
 
 ![](https://www.researchgate.net/publication/313020352/figure/fig4/AS:455507778510848@1485612925004/The-DIKW-pyramid-Source-Soloviev-K-2016.jpg)
 
