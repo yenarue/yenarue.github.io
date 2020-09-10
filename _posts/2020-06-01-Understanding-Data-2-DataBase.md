@@ -1,5 +1,5 @@
 ---
-title: "데이터의 이해 - 2) 데이터베이스 (정의/특징/활용)"
+title: "[ADsP] 데이터의 이해 - 2) 데이터베이스 (정의/특징/활용)"
 date: 2020-06-01 22:45  
 layout: post
 category: DataScience

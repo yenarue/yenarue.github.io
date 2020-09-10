@@ -1,5 +1,5 @@
 ---
-title: "데이터의 이해 - 1) 데이터의 유형 / 지식의 형태 / DIKW 피라미드"
+title: "[ADsP] 데이터의 이해 - 1) 데이터의 유형 / 지식의 형태 / DIKW 피라미드"
 date: 2020-06-01 22:30  
 layout: post
 category: DataScience

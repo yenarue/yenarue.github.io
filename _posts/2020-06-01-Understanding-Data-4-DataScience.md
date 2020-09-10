@@ -1,5 +1,5 @@
 ---
-title: "데이터의 이해 - 4) 데이터 사이언스 & 데이터 사이언티스트"
+title: "[ADsP] 데이터의 이해 - 4) 데이터 사이언스 & 데이터 사이언티스트"
 date: 2020-06-01 23:30  
 layout: post
 category: DataScience

@@ -1,5 +1,5 @@
 ---
-title: "데이터의 이해 - 3) 빅데이터"
+title: "[ADsP] 데이터의 이해 - 3) 빅데이터"
 date: 2020-06-01 23:00  
 layout: post
 category: DataScience
