@@ -147,7 +147,7 @@ comments: true
 
 ## 분석 방법론 1. KDD 분석 방법론
 
-![](/Users/yenarue/OneDrive/Developer/TIL/DataScience/ADsP/images/kdd.png)
+![](https://github.com/yenarue/TIL/blob/master/DataScience/ADsP/images/kdd.png?raw=true)
 
 1. 데이터셋 선택 (Selection)
    * 개요 : 비즈니스 이해, 데이터 이해
@@ -169,7 +169,7 @@ comments: true
 
 ### 4레벨 구조
 
-![](/Users/yenarue/OneDrive/Developer/TIL/DataScience/ADsP/images/kdd-4level.png)
+![](https://github.com/yenarue/TIL/blob/master/DataScience/ADsP/images/kdd-4level.png?raw=true)
 
 * 기존 방법론들 : Phase -> Task -> Step/Instance (3단계)
 * CRISP-DM : Phase -> Generic Tasks -> Specialized Tasks -> Process Instances (4단계)
@@ -178,7 +178,7 @@ comments: true
 
 6단계로 구성, 단방향X, 단계간 피드백을 통해 완성도를 향상시킨다
 
-![](/Users/yenarue/OneDrive/Developer/TIL/DataScience/ADsP/images/crisp-dm.png)
+![](https://github.com/yenarue/TIL/blob/master/DataScience/ADsP/images/crisp-dm.png?raw=true)
 
 * 업무 이해 (Business Understanding)
   * 개요 : 비즈니스 이해
@@ -207,14 +207,11 @@ comments: true
 
 ### 3단계 계층
 
-![](/Users/yenarue/OneDrive/Developer/TIL/DataScience/ADsP/images/bigdata-analysis-process.png)
+![](https://github.com/yenarue/TIL/blob/master/DataScience/ADsP/images/bigdata-analysis-process.png?raw=true)
 
 ### 5단계 프로세스
 
-> 출제포인트 : 가끔 세세한 스텝까지 물어보기도 함.
-> 내 생각에는 이런 스텝까지 다 외우기는 힘들 듯... 어차피 실무와 큰 관련은 없으니 패스하는게 나을 듯
-
-![](/Users/yenarue/OneDrive/Developer/TIL/DataScience/ADsP/images/bigdata-analysis-process-5.png)
+![](https://github.com/yenarue/TIL/blob/master/DataScience/ADsP/images/bigdata-analysis-process-5.png?raw=true)
 
 * 분석 기획
 
@@ -267,7 +264,7 @@ comments: true
 
 ## 분석 과제 발굴 방법론 1. 하향식 접근법 (Top Down Approach)
 
-![](/Users/yenarue/OneDrive/Developer/TIL/DataScience/ADsP/images/finding-analysis-subject-top-down-approach.png)
+![](https://github.com/yenarue/TIL/blob/master/DataScience/ADsP/images/finding-analysis-subject-top-down-approach.png?raw=true)
 
 분석 대상이 무엇인지 알고있는 경우 이에 대한 해법(How)을 찾기 위해서 각 과정을 단계적으로 수행하는 방식
 
