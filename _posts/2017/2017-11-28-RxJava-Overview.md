@@ -1,5 +1,5 @@
 ---
-title: "리액티브 프로그래밍과 RxJava에 대한 개념과 사상에 대한 이해"
+title: "리액티브 프로그래밍, RxJava에 대한 개념과 사상에 대한 이해"
 date: 2017-11-28 23:00  
 layout: post
 category: RxJava
