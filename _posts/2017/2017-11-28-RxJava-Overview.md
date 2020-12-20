@@ -12,20 +12,11 @@ comments: true
 ---
 
 
-
-※ 개인적으로 이해한 내용을 적은 것이므로 잘못되었거나 부족한 내용이 있을 수 있습니다.
-
-> [RxJava를 활용한 리액티브 프로그래밍 : RxJava의 개념과 사용법, 실무 적용까지](http://www.insightbook.co.kr/book/programming-insight/rxjava%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A6%AC%EC%95%A1%ED%8B%B0%EB%B8%8C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-rxjava%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%82%AC%EC%9A%A9%EB%B2%95) 라는 책의 `1장. RxJava를 활용한 리액티브 프로그래밍` 의 초반 4~5페이지에서 Rx와 RxJava의 기본이 된 개념과 사상에 대해 언급되어있는 부분이 인상깊어 이 부분만 따로 자세히 정리해보기로 했다.
-
-<!-- more -->
-
-> 단순히 Rx 라이브러리 자체에만 집중하는 것이 아니라 Reactive Programming, Functional Programming, Reactive Functional Programming, 명령형 프로그래밍, 선언적 프로그래밍 등 basis 개념들에 대해 고찰하는 계기가 되었다.
-
-
-
 # Rx란?
 
 Rx는 90년대 후반에 생겨난 함수형 리액티브 프로그래밍이라는 개념을 바탕으로 에릭마이어가 개발한 Microsoft .NET의 Reactive Extension이다. 그 이후, 넷플릭스에서 이를 JVM으로 이식하여 RxJava가 탄생하게 되었다. 이식의 타겟을 Java가 아닌 JVM으로 잡음으로서, JVM기반의 모든 언어들 (Scala, Closure, Groovy 등)에서도 Rx를 사용할 수 있는 가능성을 열어두게 되었다.
+
+<!-- more -->
 
 # Rxjava란?
 
