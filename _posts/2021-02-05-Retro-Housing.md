@@ -2,7 +2,7 @@
 title: "[2020년 회고] 인생 첫 집, 자가 구입기! - 1편"
 date: 2021-02-05 22:30  
 layout: post
-category: Tip
+category: SmallTalk
 tags:
   - SmallTalk
   - 회고
