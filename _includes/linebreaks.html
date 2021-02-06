@@ -1,0 +1,5 @@
+{% capture devnull %}
+{% assign parts = include.input | newline_to_br | strip_newlines | split:"<br />" %}
+{% capture output %}{% for item in parts %}{% assign item = item | strip %}{% if item.size > 0 %}{{ item | append: '<br />' | replace:"</p><br />","</p>" }}{% endif %}
+{% endfor %}{% endcapture %}
+{% endcapture %}{{ output }}

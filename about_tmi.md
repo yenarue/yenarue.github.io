@@ -17,11 +17,11 @@ title: About TMI
 
 ### I'm Interested in
 
-**Java, Android, Object Oriented Programming, Functional Programming, Data Sciences, vue.js, node.js, MongoDB(NoSQL),  TDD, Pair Programming** 에 관심이 많습니다.
+**Java, RxJava, Android, Object Oriented Programming, Functional Programming, Data Sciences, vue.js, node.js, MongoDB(NoSQL),  TDD, Pair Programming** 에 관심이 많습니다.
 
 잡캐답게 다양한 분야에 관심이 많습니다.
 
-Kotlin, Scala 는 사이드 프로젝트에서 가끔 사용하고 있습니다.
+Kotlin, Scala, React.js 는 사이드 프로젝트에서 가끔 사용하고 있습니다.
 
 Python으로는 간단한 데이터 분석이나 스크립트 정도만 작성하는 정도이며 대형 프로젝트를 진행해본적은 없습니다. 그치만 이상하게 애정이 가는 언어입니다.
 
@@ -42,8 +42,8 @@ Python으로는 간단한 데이터 분석이나 스크립트 정도만 작성�
 * 삼성전자, 무선사업부, S직군, 54기 (2014.03 ~ 2018.07)
   * (신입사원 파견) 무선사업부, SM 그룹, SCM 업무 진행 (2014.08 ~. 2015.07)
   * 삼성전자, 무선사업부, 서비스개발팀, Samsung Pay Client 선행 개발 (2015.08 ~ 2017. 07)
-  * 삼성전자, DMC연구소, C-Lab, Looky팀 S/W개발자 (2017.07 ~ 2018.07)
-* 포메이커스 (삼성전자 스핀오프), SW개발리딩 (2018.08 ~)
+  * 삼성전자, DMC연구소, C-Lab, Looky팀, 풀스택 개발자 (2017.07 ~ 2018.07)
+* 포메이커스 (삼성전자 스핀오프),  Co-Founder & CTO (2018.08 ~)
   * 포메스 & 포메이커스 플랫폼 개발 중
 
 ### Projects
@@ -66,15 +66,13 @@ Python으로는 간단한 데이터 분석이나 스크립트 정도만 작성�
   * 모바일 앱 사용패턴 분석을 기반으로 하는 사용자 테스트 매칭 플랫폼
   * TDD와 페어 프로그래밍을 기본으로 4명의 개발자가 다 함께 풀스택으로 개발
   * 포메스 & 포메이커스의 전신
-* 포메스 & 포메이커스, 개발리딩 (2018~)
+* 포메스 & 포메이커스,  Co-Founder & CTO (2018~)
   * 포메스 : 모바일 게임 플레이 패턴 분석을 기반으로 하는 게임 피드백 앱
   * 포메이커스 : 모바일 게임을 위한 온라인 FGT 플랫폼
 
 ### Activities
 
 회사 업무 외 개인적인 활동들만 기록합니다.
-
-대부분의 활동이 대학시절에만 이루어진 듯 한 것은 기분 탓 입니다.
 
 * 충남지역 보안 컨퍼런스 발표 - Hdcon 문제풀이 (2010)
 * 충남대학교 정보보호 학술동아리 ARGOS, 회원 (2010, 2013)
@@ -91,6 +89,7 @@ Python으로는 간단한 데이터 분석이나 스크립트 정도만 작성�
 * 전자공학회 논물 출품, Kinect와 Unity3D 기반의 체감형 재활치료 프로그램  - DTW 알고리즘기반의 모션패턴인식 (2013)
 * 한빛리더스 활동 (2014 하반기)
 * 제이펍 베타리더 활동 (2014 하반기 ~ 2015 상반기)
+* IT 컨설턴트 활동 (2020 하반기~)
 
 ### Study Groups
 
@@ -119,6 +118,7 @@ Python으로는 간단한 데이터 분석이나 스크립트 정도만 작성�
   * [19' 상반기] 스터디파이 - Kotlin 입문 스터디
   * [19' 상반기] 스터디파이 - 딥러닝 (주식) 스터디
   * [20' 상반기] 데이터분석 스터디
+  * [20' 하반기] [Plan X - IT 서비스 기획 프로젝트](https://www.bside.best/planx)
 
 ### 좋아하는 문구
 
