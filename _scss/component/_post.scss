@@ -5,18 +5,24 @@
     font-weight: 700;
   }
 
+  h1 {
+	  background: linear-gradient(to top, #d8ebe7 1rem, transparent 1rem);
+  }
+
+  h2 {
+	  background: linear-gradient(to top, #edf4f2 1rem, transparent 1rem);
+  }
+
   @media (min-width: 38rem) {
     font-size: 0.9rem;
 
     h1 { 
 		margin: 2em 0 1em 0;
 		font-size: 1.8rem;
-		background: linear-gradient(to top, #d8ebe7 1rem, transparent 1rem);
 	}
     h2 { 
       margin: 2em 0 1em 0;
       font-size: 1.6rem;
-	  background: linear-gradient(to top, #edf4f2 1rem, transparent 1rem);
     }
 	h3 {
 	  margin: 2em 0 1em 0;
