@@ -11,11 +11,12 @@
     h1 { 
 		margin: 2em 0 1em 0;
 		font-size: 1.8rem;
+		background: linear-gradient(to top, #d8ebe7 1rem, transparent 1rem);
 	}
     h2 { 
       margin: 2em 0 1em 0;
       font-size: 1.6rem;
-	  background: linear-gradient(to top, #edf4f2 50%, transparent 50%);
+	  background: linear-gradient(to top, #edf4f2 1rem, transparent 1rem);
     }
 	h3 {
 	  margin: 2em 0 1em 0;
@@ -40,6 +41,7 @@
 	margin-bottom: .4em;
     color: $theme-color;
     margin-top: 0;
+	background: transparent;
   }
 
   .post-date {
